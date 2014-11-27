@@ -1,0 +1,22 @@
+*{
+    margin:0 auto;
+}
+
+#viewport{
+    width: 800px;
+    height: 2350px;
+    margin:0 auto;
+    position: relative;
+    overflow: hidden;
+    top:100px;
+}
+
+#banner{
+    /*width: 10000px;*/
+    position: absolute;
+    left:0px;
+    top:0px;
+}
+.nav{
+    float: left;
+}
